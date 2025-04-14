@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sumit7654
-- 👀 I’m interested in ethical hackingand web development
+- 👀 I’m interested in ethical hacking and web development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
